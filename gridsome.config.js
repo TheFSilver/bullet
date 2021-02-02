@@ -16,7 +16,6 @@ module.exports = {
   siteName: "Gridsome",
   plugins: [],
   siteUrl: "https://TheFSilver.github.io",
-  pathPrefix: "/bullet",
   css: {
     loaderOptions: {
       postcss: {
